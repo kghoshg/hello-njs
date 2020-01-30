@@ -1,6 +1,6 @@
 {
-  "name": "hello-world-express",
-  "description": "Hello World test app",
+  "name": "hello-world-node-js",
+  "description": "Hello World Nodejs app",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
