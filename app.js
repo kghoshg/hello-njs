@@ -7,6 +7,7 @@ var server = http.createServer(function(request, response) {
 
 });
 
+//server port 
 var port = 80;
 server.listen(port);
 
